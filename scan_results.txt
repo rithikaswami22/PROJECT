@@ -1,0 +1,15 @@
+[-] No XSS at: http://testphp.vulnweb.com/index.phpindex.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpcategories.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpartists.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpdisclaimer.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpcart.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpguestbook.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpAJAX/index.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpcategories.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpartists.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpcart.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phplogin.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpuserinfo.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpguestbook.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpAJAX/index.php
+[-] No XSS at: http://testphp.vulnweb.com/index.phpprivacy.php
